@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp1.Model
 {
-    public class CoffeeShop{}
+    public record CoffeeShop(string City);
 
 
 
